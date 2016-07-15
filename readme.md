@@ -6,6 +6,6 @@ when clicked you can move the axis of the cubes.
 
 DJ set was on July 2 2016
 
-![Alt text](hhttp://i.imgur.com/cP1pN37.png "screen shot")
+![Alt text](http://i.imgur.com/cP1pN37.png "screen shot")
 
 [view on codepen here](https://codepen.io/hunterhawes13/full/mebaEj/)
